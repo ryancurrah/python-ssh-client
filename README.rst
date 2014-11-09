@@ -1,4 +1,4 @@
 Python ssh client
 =================
 
-This is wrapper around the python ssh client paramikoe that provides nice extras like timeout options, and nicely formatted return statement.
+This is a wrapper around the python ssh client paramiko and provides nice extras like timeout options, user friendly usage, and nicely formatted return statement.
